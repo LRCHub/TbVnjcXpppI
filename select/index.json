@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Triumph for My Magic Steel",
+  "base_artist": "Rhapsody",
+  "createdAt": "2026-01-13T09:51:24.237520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Triumph for My Magic Steel",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/01_Triumph_for_My_Magic_Steel_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Triumph for My Magic Steel",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/02_Triumph_for_My_Magic_Steel_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Triumph for My Magic Steel (alternate version)",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/03_Triumph_for_My_Magic_Steel_(alternate_version)_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Triumph for My Magic Steel",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/04_Triumph_for_My_Magic_Steel_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Triumph For My Magic Steel (Alternate Version)",
+      "artist": "Rhapsody",
+      "has_synced": true,
+      "path": "select/05_Triumph_For_My_Magic_Steel_(Alternate_Version)_Rhapsody.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Triumph for My Magic Steel",
+      "artist": "Rhapsody Of Fire",
+      "has_synced": false,
+      "path": "select/pl_01_Triumph_for_My_Magic_Steel_Rhapsody_Of_Fire.txt"
+    }
+  ]
+}
